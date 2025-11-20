@@ -61,4 +61,13 @@ body {
     0% { transform: translateY(0px); }
     50% { transform: translateY(-10px); }
     100% { transform: translateY(0px); }
+
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 40px;
+    color: #ffcee0;
 }
